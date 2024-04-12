@@ -1,6 +1,5 @@
 # 💫 About Me:
-👀 I am full-stack developer, specialized in operating system, cyber security and network. I'm also interested in blockchain and decentralized network.
-
+👀 I am currently pursuing a Master's degree in Computer Science at the Politecnico of Turin, starting in 2023. Additionally, I am employed as a Cybersecurity Analyst at Oplium, where I actively contribute to enhancing security measures. My background encompasses software development and full-stack development, and I possess a strong foundation in Cybersecurity. I am proficient in various facets of information technology, including programming, software development process design, Android and iOS application development, and network management. Furthermore, I possess theoretical knowledge in fields such as Artificial Intelligence (AI), blockchain technology, and programming languages for smart contracts, such as Solidity.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simonelicitra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ssm00IY) 
