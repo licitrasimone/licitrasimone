@@ -20,7 +20,7 @@
 ![gRPC](https://img.shields.io/badge/gRPC-1C1E20?style=for-the-badge&logo=grpc&logoColor=white)
 ![Protobuf](https://img.shields.io/badge/Protobuf-004858?style=for-the-badge&logo=protocol-buffers&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) (Spring Boot, Spring Security)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -50,9 +50,9 @@
 ![Security by design and by default](https://img.shields.io/badge/Security%20by%20design%20and%20by%20default-0095D5?style=for-the-badge&logo=security&logoColor=white)
 ![Wireless Security](https://img.shields.io/badge/Wireless%20Security-4B0082?style=for-the-badge&logo=wifi&logoColor=white)
 ![X509 Certificates](https://img.shields.io/badge/X509%20Certificates-FFA500?style=for-the-badge&logo=ssl&logoColor=white)
-![SAST](https://img.shields.io/badge/SAST-000000?style=for-the-badge&logo=security&logoColor=white) (Static Application Security Testing)
-![DAST](https://img.shields.io/badge/DAST-000000?style=for-the-badge&logo=security&logoColor=white) (Dynamic Application Security Testing)
-![SCA](https://img.shields.io/badge/SCA-000000?style=for-the-badge&logo=security&logoColor=white) (Software Composition Analysis)
+![SAST](https://img.shields.io/badge/SAST-000000?style=for-the-badge&logo=security&logoColor=white) 
+![DAST](https://img.shields.io/badge/DAST-000000?style=for-the-badge&logo=security&logoColor=white)
+![SCA](https://img.shields.io/badge/SCA-000000?style=for-the-badge&logo=security&logoColor=white)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-FFA500?style=for-the-badge&logo=security&logoColor=white)
 ![Penetration Test](https://img.shields.io/badge/Penetration%20Test-FF0000?style=for-the-badge&logo=security&logoColor=white)
 ![Radare2/Ghidra](https://img.shields.io/badge/Radare2/Ghidra-000000?style=for-the-badge&logo=security&logoColor=white)
