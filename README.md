@@ -64,6 +64,9 @@
 ![ARM Architecture](https://img.shields.io/badge/ARM%20Architecture-0095D5?style=for-the-badge&logo=arm&logoColor=white)
 ![keil uVision](https://img.shields.io/badge/Keil%20uVision-0095D5?style=for-the-badge&logo=keil&logoColor=white)
 
+# TryHackMe Badge:
+![](https://tryhackme.com/badge/3327353)<br/>
+
 
 
 # 📊 GitHub Stats:
