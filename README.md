@@ -65,7 +65,7 @@
 ![keil uVision](https://img.shields.io/badge/Keil%20uVision-0095D5?style=for-the-badge&logo=keil&logoColor=white)
 
 # TryHackMe Badge:
-<script src="https://tryhackme.com/badge/3327353"></script><br/>
+![](https://tryhackme-badges.s3.amazonaws.com/Shad0wR1ft.png)
 
 
 
