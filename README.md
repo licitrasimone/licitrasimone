@@ -1,5 +1,10 @@
 # 💫 About Me:
-👀 I am currently pursuing a Master's degree in Computer Science at the Politecnico of Turin, starting in 2023. Additionally, I am employed as a Cybersecurity Analyst at Oplium, where I actively contribute to enhancing security measures. My background encompasses software development and full-stack development, and I possess a strong foundation in Cybersecurity. I am proficient in various facets of information technology, including programming, software development process design, Android and iOS application development, and network management. Furthermore, I possess theoretical knowledge in fields such as Artificial Intelligence (AI), blockchain technology, and programming languages for smart contracts, such as Solidity.
+👀 I graduated in December 2024 with a Master’s degree in Computer Science from Politecnico di Torino (started in March 2023). I work as a DevSecOps and Red Team Specialist, primarily focusing on offensive security activities and secure development lifecycle integration.
+
+I am employed as a Cybersecurity Analyst at Oplium, where I contribute to strengthening organizational security through both offensive and defensive strategies. My background includes software and computer engineering, providing me with a solid technical foundation across multiple layers of the IT stack.
+
+I am proficient in various areas of information technology, including programming, secure software development processes, Android and iOS application development, and network management. I also possess theoretical and practical knowledge in Artificial Intelligence, blockchain technologies, and smart contract programming (e.g., Solidity).
+My cybersecurity expertise is reinforced by hands-on experience on platforms such as Hack The Box: (https://app.hackthebox.com/profile/2085160)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simonelicitra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ssm00IY) 
