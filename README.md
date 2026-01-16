@@ -105,10 +105,3 @@ My cybersecurity expertise is reinforced by hands-on experience on platforms suc
 ![ARM Architecture](https://img.shields.io/badge/ARM%20Architecture-0095D5?style=for-the-badge&logo=arm&logoColor=white)
 ![keil uVision](https://img.shields.io/badge/Keil%20uVision-0095D5?style=for-the-badge&logo=keil&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=licitrasimone&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=licitrasimone&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=licitrasimone&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=licitrasimone&theme=dark&no-frame=false&no-bg=true&margin-w=4)
