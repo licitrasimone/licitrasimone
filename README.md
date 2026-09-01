@@ -11,6 +11,8 @@ I am employed as a **Cybersecurity Analyst at Oplium Italia** (Turin, Italy), wh
 ## 🎖️ Certifications:
 - **OSCP** (Offensive Security Certified Professional)
 - **CRTO** (Certified Red Team Operator)
+- **CRTL** (Certified Red Team Lead)
+- **PAPA**
 
 My background in software and computer engineering provides me with a solid technical foundation across multiple layers of the IT stack.
 
@@ -20,6 +22,7 @@ My cybersecurity expertise is reinforced by hands-on experience on platforms suc
 
 ## 🔬 Current Research & Projects:
 - **AIX (AI eXploit)** - A comprehensive AI/LLM security testing framework, positioned as "NetExec for AI"
+- **Cristal Sliver** - A Crystal Palace implementation for Sliver C2"
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simonelicitra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ssm00IY) 
